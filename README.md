@@ -1,16 +1,19 @@
-# Legal & Privacy Policies
+# PinPrice Scanner — Privacy Policy
 
-This repository hosts the official Privacy Policies and Terms of Service for mobile applications developed by **Jimmy Cañosa**.
+This repository hosts the official Privacy Policy for the **PinPrice Scanner** Android app, published on the Google Play Store.
 
-## 📱 My Apps
+## Live Page
 
-### PinPrice Scanner
-* **Privacy Policy:** [View Here](https://jimmycanosa.github.io/privacy-policy/)
-* **Status:** In Closed Testing
+The privacy policy is published via GitHub Pages at:
+```
+https://jimmycanosa.github.io/pinprice-scanner-privacy-policy/
+```
 
----
+## App
 
-## 🛠 Management
-The documents in this repository are written in Markdown and served via **GitHub Pages** to provide a clean, readable interface for users and to comply with Google Play Store requirements.
+**PinPrice Scanner** is an offline-first Point of Sale app for small businesses featuring barcode scanning, inventory management, a crowdsourced global price catalogue, and a time-based premium system.
 
-**Last Updated:** March 2026
+## Developer
+
+**Pincoder**
+Contact: [pincoder.dev@gmail.com](mailto:pincoder.dev@gmail.com)
