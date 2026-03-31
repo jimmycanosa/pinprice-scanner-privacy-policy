@@ -8,9 +8,6 @@ This repository hosts the official Privacy Policies and Terms of Service for mob
 * **Privacy Policy:** [View Here](https://jimmycanosa.github.io/privacy-policy/)
 * **Status:** In Closed Testing
 
-### Universal Unit Converter
-* **Privacy Policy:** [View Here](https://jimmycanosa.github.io/privacy-policy/unit-converter) (Optional if you add this later)
-
 ---
 
 ## 🛠 Management
